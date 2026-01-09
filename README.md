@@ -1,6 +1,6 @@
 # YouTube Virality Predictor
 
-A ML model for predicting YouTube video virality scores using multimodal features from video metadata, titles, and thumbnails.
+An ML model for predicting YouTube video virality scores using multimodal features from video metadata, titles, and thumbnails.
 
 ## Overview
 
